@@ -33,3 +33,9 @@ npm run build
 ```shell
 npm start
 ```
+
+![image](https://github.com/user-attachments/assets/4f37fa67-d59e-458d-8761-cf2546dd5f62)
+
+![image](https://github.com/user-attachments/assets/b400bf0b-8347-451c-85a2-aca9df2083c7)
+
+
